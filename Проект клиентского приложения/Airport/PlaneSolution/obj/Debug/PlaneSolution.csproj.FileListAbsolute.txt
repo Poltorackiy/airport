@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\bin\Debug\PlaneSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\bin\Debug\PlaneSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\bin\Debug\PlaneSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\bin\Debug\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\bin\Debug\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.PlanesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\PlaneSolution\obj\Debug\PlaneSolution.PlaneEdit.resources

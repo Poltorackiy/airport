@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\bin\Release\CitiesSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\bin\Release\CitiesSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\bin\Release\CitiesSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\bin\Release\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\bin\Release\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.CitiesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.CityEditForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CitiesSolution\obj\Release\CitiesSolution.csprojResolveAssemblyReference.cache

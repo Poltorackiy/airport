@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\bin\Debug\AirCompaniesSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\bin\Debug\AirCompaniesSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\bin\Debug\AirCompaniesSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\bin\Debug\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\bin\Debug\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.AirCompaniesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirCompaniesSolution\obj\Debug\AirCompaniesSolution.AirCompaniesEditForm.resources

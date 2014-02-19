@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\bin\Debug\SheduleSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\bin\Debug\SheduleSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\bin\Debug\SheduleSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\bin\Debug\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\bin\Debug\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.FlightListForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\SheduleSolution\obj\Debug\SheduleSolution.EditFlightForm.resources

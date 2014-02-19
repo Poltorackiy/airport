@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Airport.exe" version="1.0.0.12" publicKeyToken="12dab053d52e2f75" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Airport" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Airport.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Задание узла requestedExecutionLevel отключит виртуализацию файла и реестра.
+            Если виртуализацию файла и реестра нужно использовать для обратной 
+            совместимости, удалите узел requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AirCompaniesSolution.exe" size="16384">
+      <assemblyIdentity name="AirCompaniesSolution" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fwDb9aafUXjHjOGNgKWqSS2DdQ7ChLeDamX38SQf0iA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Airport.exe" size="17408">
+      <assemblyIdentity name="Airport" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aw/pWUVrbmkbVLgoGiREr6d8d//uu2gqirS9k47pKuc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AirportLibrary.dll" size="47616">
+      <assemblyIdentity name="AirportLibrary" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xbdHoi8ePslKn7+pRMho6ypiLu0VVWk+6nUh5qlyfCk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AirPortSolution.exe" size="18432">
+      <assemblyIdentity name="AirPortSolution" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HGVePMnhjw6U0FGPU6uASimlhwGH7J8mYa331U83rsk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CitiesSolution.exe" size="19456">
+      <assemblyIdentity name="CitiesSolution" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZT0qvZFfhzM0q4u0ioG6phqjZXDFpngnaHQ/muS6GZM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CountriesSolution.exe" size="14336">
+      <assemblyIdentity name="CountriesSolution" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YyZCaPVWRwHR/yKrqOrhUiWDrUwnhdKoDmk7/+tHR10=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PlaneSolution.exe" size="17408">
+      <assemblyIdentity name="PlaneSolution" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jz5xfwSUH0Z/gTWEnmX6+p2f26yh0hFWWjkGEDJyN90=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SheduleSolution.exe" size="25600">
+      <assemblyIdentity name="SheduleSolution" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RTObr+lQKPqP7VU+znuU1E0GIct8VSUSrfZj+AR4VRo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Airport.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Список версий Windows, для работы с которыми предназначено данное приложение. 
+      Windows автоматически выберет наиболее совместимую среду.-->
+      <!-- Если приложение предназначено для работы с Windows Vista, снимите комментарий со следующего узла supportedOS-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- Если приложение предназначено для работы с Windows 7, раскомментируйте следующий узел supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- Если приложение предназначено для работы с Windows 8, снимите комментарий со следующего узла supportedOS-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=KONSTANTIN\Администратор" issuerKeyHash="4c8d91f097efdd5b7da3c590d21e0bea37143d9c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Qhwen0UslCtDdcgHWNPE1Z/zzqLd7sgzf47h7ecoid8=</DigestValue></Reference></SignedInfo><SignatureValue>bQP1oh3ekLI03RggE0yPJYAZSDvsAylTfhLDssohbKAavaH65d9cLLNsv+NeXGvKpG97t4b5sq1FO5vJFLZP5vCtO8aT60BguGsaUrPaef45dvQhtwFhfIfUv3LNd7a1eoApnBfiO/BpRGd1aMFlxxylz2hsb3DAE2nk4t/R8LA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lHHL3plIovjt+eQuHLhixbgWOptmEX9VwsIkKHomcvPDU8dIHckwGTCfyk8CckQz/xwwhd6iUUZ1htnTgpIxTsKfyNvSwaFOEuYfEfAOjwTE2jFdVTGOk/2gbk8WMRo7YKTEh2y685QWTQTLfoIOZTdoC401sjFkPvhTy7/sa1k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="df8928e7ede18e7f33c8eedda2cef39fd5c4d35807c875432b942c459f1e1c42" Description="" Url=""><as:assemblyIdentity name="Airport.exe" version="1.0.0.12" publicKeyToken="12dab053d52e2f75" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KONSTANTIN\Администратор</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YNkE6+WUvdFmgyUuLK8gtNsUGTldPN5HrY7k2wzGc6U=</DigestValue></Reference></SignedInfo><SignatureValue>Vew6l8uS5afNjfIKkXwajPoCs8DFXDkzPElxqGG8Gq3pHvlaGyrcaEqi8afr4kpX7TFy/VcQ0hFTC25I8rA3FlikE5IYmBhVdJA+/+7V+e8lnsCLR24gos9FaWpkkfKEU1fLkXfHkikS5FOQUx6s5MmcExm/35vD9CKiBVEMpLA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lHHL3plIovjt+eQuHLhixbgWOptmEX9VwsIkKHomcvPDU8dIHckwGTCfyk8CckQz/xwwhd6iUUZ1htnTgpIxTsKfyNvSwaFOEuYfEfAOjwTE2jFdVTGOk/2gbk8WMRo7YKTEh2y685QWTQTLfoIOZTdoC401sjFkPvhTy7/sa1k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQUqhr3NFrH7RLqw+MxXCz9jANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAASwBPAE4AUwBUAEEATgBUAEkATgBcBBAENAQ8BDgEPQQ4BEEEQgRABDAEQgQ+BEAwHhcNMTMwMTE4MTk1ODE2WhcNMTQwMTE5MDE1ODE2WjA7MTkwNwYDVQQDHjAASwBPAE4AUwBUAEEATgBUAEkATgBcBBAENAQ8BDgEPQQ4BEEEQgRABDAEQgQ+BEAwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJRxy96ZSKL47fnkLhy4YsW4FjqbZhF/VcLCJCh6JnLzw1PHSB3JMBkwn8pPAnJEM/8cMIXeolFGdYbZ04KSMU7Cn8jb0sGhThLmHxHwDo8ExNoxXVUxjpP9oG5PFjEaO2CkxIdsuvOUFk0Ey36CDmU3aAuNNbIxZD74U8u/7GtZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAH0WmXJaMZqvxdMt9rARKTO+rDBh6ymUozd9wn5s5Pz9taw/jVt56oR5KQ9dNiTOnEAB/oa6C3o2UmxEzvHy7BGWMUCJWro6oeIf52W1AqkCh8kV8aVhOswhBdeS2p2ALOdMn3nbOZDUjyq13E85WYFUn0Oj4QKnVZdodDuIXZXw=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\bin\Release\AirPortSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\bin\Release\AirPortSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\bin\Release\AirPortSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\bin\Release\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\bin\Release\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.AirPortEditForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.AirPortsForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirPortSolution\obj\Release\AirPortSolution.csprojResolveAssemblyReference.cache

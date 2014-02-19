@@ -1,0 +1,8 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\bin\Release\IWantToBuyATicketSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\bin\Release\IWantToBuyATicketSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\bin\Release\IWantToBuyATicketSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\obj\Release\IWantToBuyATicketSolution.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\obj\Release\IWantToBuyATicketSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\obj\Release\IWantToBuyATicketSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\obj\Release\IWantToBuyATicketSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\IWantToBuyATicketSolution\obj\Release\IWantToBuyATicketSolution.pdb

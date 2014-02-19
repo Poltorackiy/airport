@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\bin\Release\CountriesSolution.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\bin\Release\CountriesSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\bin\Release\CountriesSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\bin\Release\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\bin\Release\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.CountriesEditForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.CountriesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\CountriesSolution\obj\Release\CountriesSolution.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\bin\Release\AirportLibrary.dll.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\bin\Release\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\bin\Release\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\obj\Release\AirportLibrary.FlightListControl.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\obj\Release\AirportLibrary.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\obj\Release\AirportLibrary.dll
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\obj\Release\AirportLibrary.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Airport\AirportLibrary\obj\Release\AirportLibrary.csprojResolveAssemblyReference.cache
